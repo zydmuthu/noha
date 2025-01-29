@@ -1,0 +1,97 @@
+* {
+margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	background: transparent;
+	font-weight: normal;
+	text-decoration: none;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	list-style: none;
+}
+header {
+padding: 30px;
+background-image:url(img/2.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+header div.feaste {
+display: flex;
+}
+header div.feaste div.left {
+}
+header div.feaste div.left a {
+
+}
+header div.feaste div.left a img {
+height: 100px;
+width: 100px;
+border-radius: 100%;
+box-shadow: 0px 4px 10px 1px rgba(0, 0, 0, 0.3);
+}
+ header div.feaste div.cender {
+
+}
+ header div.feaste div.cender h1 {
+font-size: 100px;
+font-weight: 700;
+color:white;
+margin: 0px 0px 0px 250px;
+}
+header section.spotlete {
+
+}
+header section.spotlete div.cender {
+
+}
+header section.spotlete div.cender p {
+font-size:25px ;
+margin:0px 50px 50px 100px;
+color:white;
+margin-top: 50px;
+text-align: center;
+}
+header div.order {
+margin: 50px 100px;
+display: flex;
+justify-content: space-betweens;
+border: 5px solid white;
+border-radius: 10px;
+}
+header div.order h1 {
+color: white;
+padding: 30px;
+font-weight: 600;
+}
+header div.order div.from {
+margin-left: 50px;
+}
+header div.order div.from form{
+padding: 10px;
+border-radius: 5px;
+background: white;
+margin: 15px;
+}
+
+header div.order div.from form label {
+font-size: 25px;
+font-weight: 600;
+}
+header div.order div.from form input {
+border: 3px solid black ;
+margin-left:10px ;
+border-radius: 15px;
+}
+header div.order div.from h1 {
+
+}
+header div.order div.from h1 a.button {
+padding: 10px 20px;
+background: yellow;
+border-radius: 20px;
+color: black;
+}
+
